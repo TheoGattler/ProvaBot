@@ -1,0 +1,6 @@
+Enclosed the sources and the library file I downloaded (it' the .jar file)
+ import org.telegram.telegrambots.ApiContextInitializer;
+  import org.telegram.telegrambots.TelegramBotsApi;
+In the .jar file there is not the classes ApiContextInitializer and TelegramBotsApi
+Package org.telegram.telegrambots.exceptions does not exist
+Please send your comments to info@deltaelectronics.it
